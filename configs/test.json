@@ -22,7 +22,7 @@
   "tpu_size": 8,
 
   "bucket": "heeves-training-data",
-  "model_dir": "step_383500",
+  "model_dir": "fine_tuned",
 
   "train_set": "pile.train.index",
   "val_set": {
